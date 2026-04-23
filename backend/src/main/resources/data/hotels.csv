@@ -1,0 +1,40 @@
+chainId,name,address,city,email,rating,imageurl
+3,Sheraton Coventry,"100 Coventry Rd, Ottawa, ON K1K 4S3",Ottawa,sheraton-1@outlook.ca,5,https://images.unsplash.com/photo-1584132869994-873f9363a562?q=80&w=2070&auto=format&fit=crop
+3,Sheraton Gibford,"2869 Gibford Dr, Ottawa, ON K1V 2L9",Ottawa,sheraton-2@outlook.ca,5,https://images.unsplash.com/photo-1477120128765-a0528148fed2?q=80&w=2071&auto=format&fit=crop
+3,Sheraton Nepean,"125 Lusk St, Nepean, ON K2J 6S5",Nepean,sheraton-3@outlook.ca,4,https://images.unsplash.com/photo-1606402179428-a57976d71fa4?q=80&w=1974&auto=format&fit=crop
+3,Sheraton Lévis Courchevel,"1176 R. de Courchevel, Lévis, QC G6W 0P7",Levis,sheraton-4@outlook.ca,2,https://images.unsplash.com/photo-1614568112072-770f89361490?q=80&w=1974&auto=format&fit=crop
+3,Sheraton Québec Everell,"730 Rue d'Everell, Québec, QC G1C 0N2",Quebec,sheraton-5@outlook.ca,4,https://images.unsplash.com/photo-1535205148555-bcbbc2a78913?q=80&w=1974&auto=format&fit=crop
+2,Fairmont Membertou Maillard,"60 Maillard St, Membertou, NS B1S 3W3",Membertou,fairmont-1@outlook.ca,4,https://images.unsplash.com/photo-1614957004131-9e8f2a13123c?q=80&w=2070&auto=format&fit=crop
+2,Fairmont Brantford Fen Ridge,"20 Fen Ridge Ct, Brantford, ON N3V 1G2",Brantford,fairmont-2@outlook.ca,3,https://images.unsplash.com/photo-1623718649591-311775a30c43?q=80&w=2070&auto=format&fit=crop
+2,Fairmont St Johns Stavanger,"411 Stavanger Dr, St. John's, NL A1A 0A1",St Johns,fairmont-3@outlook.ca,4,https://images.unsplash.com/photo-1598605272254-16f0c0ecdfa5?q=80&w=2071&auto=format&fit=crop
+2,Fairmont Kent,"100 Kent St, Ottawa, ON K1P 5R7",Ottawa,fairmont-4@outlook.ca,5,https://images.unsplash.com/photo-1468824357306-a439d58ccb1c?q=80&w=1959&auto=format&fit=crop
+1,Delta Coventry Suites,"200 Coventry Rd, Ottawa, ON K1K 4S3",Ottawa,delta-1@outlook.ca,2,https://images.unsplash.com/photo-1537823286324-7d070255022e?q=80&w=2070&auto=format&fit=crop
+1,Delta Dalhousie,"350 Dalhousie St, Ottawa, ON K1N 7E9",Ottawa,delta-2@outlook.ca,4,https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop
+1,Delta Lyon North,"101 Lyon St. N, Ottawa, ON K1R 5T9",Ottawa,delta-3@outlook.ca,5,https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=2070&auto=format&fit=crop
+7,Marriott Kanata Terry Fox,"578 Terry Fox Dr, Kanata, ON K2L 4G8",Kanata,marriott-1@outlook.ca,5,https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=1925&auto=format&fit=crop
+7,Marriott Kanata Maritime,"1251 Maritime Way, Kanata, ON K2K 0J6",Kanata,marriott-2@outlook.ca,4,https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop
+7,Marriott St Johns East,"411 Stavanger Dr, St. John's, NL A1A 0A1",St Johns,marriott-3@outlook.ca,4,https://images.unsplash.com/photo-1455587734955-081b22074882?q=80&w=1920&auto=format&fit=crop
+7,Marriott Dalhousie Central,"325 Dalhousie St, Ottawa, ON K1N 7G1",Ottawa,marriott-4@outlook.ca,5,https://images.unsplash.com/photo-1506059612708-99d6c258160e?q=80&w=2069&auto=format&fit=crop
+6,Westin Moodie,"300 Moodie Dr, Ottawa, ON K2H 9G1",Ottawa,westin-1@outlook.ca,4,https://images.unsplash.com/photo-1586611292717-f828b167408c?q=80&w=1974&auto=format&fit=crop
+6,Westin Montreal St-Hubert,"1415 Rue St-Hubert, Montréal, QC H2L 3Y9",Montreal,westin-2@outlook.ca,3,https://images.unsplash.com/photo-1529290130-4ca3753253ae?q=80&w=2076&auto=format&fit=crop
+6,Westin Montreal Notre-Dame,"621 Notre-Dame St. East, Montreal, QC H2Y 0C2",Montreal,westin-3@outlook.ca,5,https://images.unsplash.com/photo-1564501049412-61c2a3083791?q=80&w=1932&auto=format&fit=crop
+6,Westin Lyon North Annex,"101 Lyon St. N, Ottawa, ON K1R 5T9",Ottawa,westin-4@outlook.ca,4,https://images.unsplash.com/photo-1621293954908-907159247fc8?q=80&w=2070&auto=format&fit=crop
+9,Quality Inn St Johns Harbor,"411 Stavanger Dr, St. John's, NL A1A 0A1",St Johns,quality-inn-1@outlook.ca,1,https://images.unsplash.com/photo-1615460549969-36fa19521a4f?q=80&w=1974&auto=format&fit=crop
+9,Quality Inn Lévis,"1176 R. de Courchevel, Lévis, QC G6W 0P7",Levis,quality-inn-2@outlook.ca,4,https://images.unsplash.com/photo-1568084680786-a84f91d1153c?q=80&w=1974&auto=format&fit=crop
+9,Quality Inn Moodie Grand,"300 Moodie Dr, Ottawa, ON K2H 9G1",Ottawa,quality-inn-3@outlook.ca,5,https://images.unsplash.com/photo-1570213489059-0aac6626cade?q=80&w=1170&auto=format&fit=crop
+4,Hampton Inn Prince of Wales,"2259 Prince of Wales Dr, Ottawa, ON K2E 6Z8",Ottawa,hampton-inn-1@outlook.ca,2,https://images.unsplash.com/photo-1596386461350-326ccb383e9f?q=80&w=2013&auto=format&fit=crop
+4,Hampton Inn Rideau,"319 Rideau St, Ottawa, ON K1N 5Y4",Ottawa,hampton-inn-2@outlook.ca,4,https://images.unsplash.com/photo-1692153142886-9881d0457b82?q=80&w=2070&auto=format&fit=crop
+4,Hampton Inn Gatineau Edmonton,"75 Rue d'Edmonton, Gatineau, QC J8Y 6W9",Gatineau,hampton-inn-3@outlook.ca,3,https://images.unsplash.com/photo-1615460549969-36fa19521a4f?q=80&w=1974&auto=format&fit=crop
+5,Hilton Kanata Campeau,"8600 Campeau Dr, Kanata, ON K2T 0N7",Kanata,hilton-1@outlook.ca,5,https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=2070&auto=format&fit=crop
+5,Hilton Kanata Huntmar,"340 Huntmar Dr, Kanata, ON K2S 1B9",Kanata,hilton-2@outlook.ca,4,https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=1925&auto=format&fit=crop
+5,Hilton Innes,"1486 Innes Rd, Ottawa, ON K1B 3V5",Ottawa,hilton-3@outlook.ca,2,https://images.unsplash.com/photo-1455587734955-081b22074882?q=80&w=1920&auto=format&fit=crop
+5,Hilton Moodie Suites,"350 Moodie Dr, Ottawa, ON K2H 8G3",Ottawa,hilton-4@outlook.ca,4,https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop
+10,Hyatt Place St Johns Classic,"411 Stavanger Dr, St. John's, NL A1A 0A1",St Johns,hyattplace-1@outlook.ca,1,https://images.unsplash.com/photo-1598605272254-16f0c0ecdfa5?q=80&w=2071&auto=format&fit=crop
+8,Four Seasons Montreal Montagne,"1440 Rue de la Montagne, Montréal, QC H3G 1Z5",Montreal,fourseasons-1@outlook.ca,4,https://images.unsplash.com/photo-1477120128765-a0528148fed2?q=80&w=2071&auto=format&fit=crop
+8,Four Seasons Kanata Campeau Luxe,"8600 Campeau Dr, Kanata, ON K2T 0N7",Kanata,fourseasons-2@outlook.ca,5,https://images.unsplash.com/photo-1535205148555-bcbbc2a78913?q=80&w=1974&auto=format&fit=crop
+8,Four Seasons Toronto Yorkville,"60 Yorkville Ave, Toronto, ON M4W 0A4",Toronto,fourseasons-3@outlook.ca,3,https://images.unsplash.com/photo-1614957004131-9e8f2a13123c?q=80&w=2070&auto=format&fit=crop
+8,Four Seasons St Johns York,"411 Stavanger Dr, St. John's, NL A1A 0A1",St Johns,fourseasons-4@outlook.ca,2,https://images.unsplash.com/photo-1623718649591-311775a30c43?q=80&w=2070&auto=format&fit=crop
+8,Four Seasons Montreal St-Hubert Luxe,"1415 Rue St-Hubert, Montréal, QC H2L 3Y9",Montreal,fourseasons-5@outlook.ca,4,https://images.unsplash.com/photo-1606402179428-a57976d71fa4?q=80&w=1974&auto=format&fit=crop
+11,Ramada Ottawa Lyon,"101 Lyon St. N, Ottawa, ON K1R 5T9",Ottawa,ramada-1@outlook.ca,4,https://images.unsplash.com/photo-1584132869994-873f9363a562?q=80&w=2070&auto=format&fit=crop
+11,Ramada Ottawa Albert Grand,"150 Albert St, Ottawa, ON K1P 5G2",Ottawa,ramada-2@outlook.ca,3,https://images.unsplash.com/photo-1506059612708-99d6c258160e?q=80&w=2069&auto=format&fit=crop
+11,Ramada St Johns Harbor Luxe,"411 Stavanger Dr, St. John's, NL A1A 0A1",St Johns,ramada-3@outlook.ca,1,https://images.unsplash.com/photo-1564501049412-61c2a3083791?q=80&w=1932&auto=format&fit=crop

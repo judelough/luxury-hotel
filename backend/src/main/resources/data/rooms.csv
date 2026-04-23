@@ -1,0 +1,98 @@
+hotelId,roomNumber,price,capacity,extendable,amenities,problemsAndDamages,imageurl
+1,502,230.49,2,true,"WiFi, AC, Smart TV, Mini bar",null,https://images.unsplash.com/photo-1605346576608-92f1346b67d6?q=80&w=2070&auto=format&fit=crop
+1,536,248.04,2,true,"WiFi, AC, TV","Loose cabinet hinge (reported)",https://images.unsplash.com/photo-1737517302831-e7b8a8eaa97c?q=80&w=2070&auto=format&fit=crop
+2,410,366.32,4,true,"WiFi, AC, Smart TV, Work desk",null,https://images.unsplash.com/photo-1602081115720-72e5b0a254b8?q=80&w=2071&auto=format&fit=crop
+2,414,301.45,3,true,"WiFi, AC, Smart TV, Work desk",null,https://images.unsplash.com/photo-1562438668-bcf0ca6578f0?q=80&w=2060&auto=format&fit=crop
+2,418,136.59,1,false,"WiFi, AC, Balcony, Smart TV","Minor scuff on wall",https://images.unsplash.com/photo-1631049307264-da0ec9d70304?q=80&w=2070&auto=format&fit=crop
+2,422,166.65,2,false,"WiFi, Smart TV, City view",null,https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?q=80&w=2071&auto=format&fit=crop
+3,207,250.75,2,true,"WiFi, AC, Balcony, Smart TV",null,https://images.unsplash.com/photo-1566665797739-1674de7a421a?q=80&w=1974&auto=format&fit=crop
+3,218,313.22,3,true,"WiFi, AC, TV","Minor scuff on wall",https://images.unsplash.com/photo-1722763529109-2bcb289a47c3?q=80&w=2030&auto=format&fit=crop
+3,225,248.61,3,true,"WiFi, AC, Smart TV, Mini bar","Loose cabinet hinge (reported)",https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?q=80&w=2070&auto=format&fit=crop
+4,304,325.61,3,true,"WiFi, AC, Smart TV, Work desk",null,https://images.unsplash.com/photo-1592229505726-ca121723b8ef?q=80&w=1974&auto=format&fit=crop
+4,315,412.44,4,true,"WiFi, AC, Premium bedding, Smart TV",null,https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?q=80&w=2071&auto=format&fit=crop
+5,410,163.7,1,false,"WiFi, Smart TV, City view","Loose cabinet hinge (reported)",https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=2070&auto=format&fit=crop
+5,417,257.76,2,true,"WiFi, AC, Smart TV, Mini bar",null,https://images.unsplash.com/photo-1566195992011-5f6b21e539aa?q=80&w=1974&auto=format&fit=crop
+6,504,176.6,2,false,"WiFi, AC, Smart TV, Work desk",null,https://images.unsplash.com/photo-1631048835388-46642de1582e?q=80&w=2070&auto=format&fit=crop
+6,506,268.57,2,true,"WiFi, Smart TV, Espresso machine","Loose cabinet hinge (reported)",https://images.unsplash.com/photo-1645619200527-c6786729c2da?q=80&w=2070&auto=format&fit=crop
+6,508,310.81,3,true,"WiFi, Smart TV, City view","Lamp flickers occasionally",https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=2070&auto=format&fit=crop
+6,532,171.27,2,true,"WiFi, AC, Premium bedding, Smart TV",null,https://images.unsplash.com/photo-1611892440504-42a792e24d32?q=80&w=2070&auto=format&fit=crop
+7,307,264.81,3,true,"WiFi, AC, TV",null,https://images.unsplash.com/photo-1621293954908-907159247fc8?q=80&w=2070&auto=format&fit=crop
+7,312,293.73,3,true,"WiFi, Smart TV, Espresso machine","Minor scuff on wall",https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=2070&auto=format&fit=crop
+7,333,161.14,2,false,"WiFi, Smart TV, City view",null,https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=2070&auto=format&fit=crop
+8,106,148.16,1,false,"WiFi, AC, Smart TV, Work desk","Lamp flickers occasionally",https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=2070&auto=format&fit=crop
+8,116,172.83,2,false,"WiFi, AC, TV",null,https://images.unsplash.com/photo-1605346576608-92f1346b67d6?q=80&w=2070&auto=format&fit=crop
+8,137,225.73,2,false,"WiFi, AC, Smart TV, Mini bar","Loose cabinet hinge (reported)",https://images.unsplash.com/photo-1737517302831-e7b8a8eaa97c?q=80&w=2070&auto=format&fit=crop
+9,324,283.18,3,true,"WiFi, AC, Smart TV, Work desk",null,https://images.unsplash.com/photo-1602081115720-72e5b0a254b8?q=80&w=2071&auto=format&fit=crop
+9,326,152.24,1,false,"WiFi, AC, Smart TV, Mini bar",null,https://images.unsplash.com/photo-1562438668-bcf0ca6578f0?q=80&w=2060&auto=format&fit=crop
+9,329,156.87,1,false,"WiFi, AC, Smart TV, Mini bar",null,https://images.unsplash.com/photo-1631049307264-da0ec9d70304?q=80&w=2070&auto=format&fit=crop
+10,105,189.63,2,true,"WiFi, AC, TV","Loose cabinet hinge (reported)",https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?q=80&w=2071&auto=format&fit=crop
+10,122,413.21,4,true,"WiFi, AC, Premium bedding, Smart TV","Lamp flickers occasionally",https://images.unsplash.com/photo-1566665797739-1674de7a421a?q=80&w=1974&auto=format&fit=crop
+11,407,144.86,1,false,"WiFi, AC, Bathtub, Smart TV",null,https://images.unsplash.com/photo-1722763529109-2bcb289a47c3?q=80&w=2030&auto=format&fit=crop
+11,413,239.2,2,false,"WiFi, AC, Smart TV, Work desk",null,https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?q=80&w=2070&auto=format&fit=crop
+12,407,179.92,2,true,"WiFi, AC, Bathtub, Smart TV",null,https://images.unsplash.com/photo-1592229505726-ca121723b8ef?q=80&w=1974&auto=format&fit=crop
+12,422,186.48,2,false,"WiFi, AC, Premium bedding, Smart TV","Lamp flickers occasionally",https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?q=80&w=2071&auto=format&fit=crop
+13,504,293.87,3,true,"WiFi, AC, Smart TV, Work desk","Lamp flickers occasionally",https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=2070&auto=format&fit=crop
+13,507,248.96,3,true,"WiFi, AC, Smart TV, Mini bar","Lamp flickers occasionally",https://images.unsplash.com/photo-1566195992011-5f6b21e539aa?q=80&w=1974&auto=format&fit=crop
+14,404,142.43,1,false,"WiFi, AC, Premium bedding, Smart TV",null,https://images.unsplash.com/photo-1631048835388-46642de1582e?q=80&w=2070&auto=format&fit=crop
+14,411,264.3,2,false,"WiFi, AC, Premium bedding, Smart TV",null,https://images.unsplash.com/photo-1645619200527-c6786729c2da?q=80&w=2070&auto=format&fit=crop
+14,425,182.95,2,true,"WiFi, Smart TV, Espresso machine","Loose cabinet hinge (reported)",https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=2070&auto=format&fit=crop
+15,304,405.23,4,true,"WiFi, AC, Smart TV, Work desk","Lamp flickers occasionally",https://images.unsplash.com/photo-1611892440504-42a792e24d32?q=80&w=2070&auto=format&fit=crop
+15,331,224.45,2,false,"WiFi, AC, Smart TV, Mini bar",null,https://images.unsplash.com/photo-1621293954908-907159247fc8?q=80&w=2070&auto=format&fit=crop
+15,333,172.42,1,false,"WiFi, AC, Smart TV, Mini bar","Minor scuff on wall",https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=2070&auto=format&fit=crop
+15,338,227.13,2,true,"WiFi, AC, Balcony, Smart TV",null,https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=2070&auto=format&fit=crop
+16,216,232.89,2,true,"WiFi, AC, Balcony, Smart TV","Lamp flickers occasionally",https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=2070&auto=format&fit=crop
+16,217,300.86,4,true,"WiFi, AC, Smart TV, Work desk",null,https://images.unsplash.com/photo-1605346576608-92f1346b67d6?q=80&w=2070&auto=format&fit=crop
+16,221,214.65,2,true,"WiFi, AC, Balcony, Smart TV",null,https://images.unsplash.com/photo-1737517302831-e7b8a8eaa97c?q=80&w=2070&auto=format&fit=crop
+17,219,250.71,2,false,"WiFi, Smart TV, Espresso machine","Loose cabinet hinge (reported)",https://images.unsplash.com/photo-1602081115720-72e5b0a254b8?q=80&w=2071&auto=format&fit=crop
+17,224,264.93,3,false,"WiFi, AC, TV",null,https://images.unsplash.com/photo-1562438668-bcf0ca6578f0?q=80&w=2060&auto=format&fit=crop
+18,107,225.53,2,false,"WiFi, AC, Smart TV, Mini bar","Loose cabinet hinge (reported)",https://images.unsplash.com/photo-1631049307264-da0ec9d70304?q=80&w=2070&auto=format&fit=crop
+18,110,188.04,2,true,"WiFi, Smart TV, Espresso machine",null,https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?q=80&w=2071&auto=format&fit=crop
+18,136,250.23,2,true,"WiFi, AC, Balcony, Smart TV","Lamp flickers occasionally",https://images.unsplash.com/photo-1566665797739-1674de7a421a?q=80&w=1974&auto=format&fit=crop
+19,211,295.2,3,true,"WiFi, Smart TV, Espresso machine",null,https://images.unsplash.com/photo-1722763529109-2bcb289a47c3?q=80&w=2030&auto=format&fit=crop
+19,217,171.99,1,false,"WiFi, AC, TV","Minor scuff on wall",https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?q=80&w=2070&auto=format&fit=crop
+20,124,206.28,2,true,"WiFi, AC, Balcony, Smart TV","Lamp flickers occasionally",https://images.unsplash.com/photo-1592229505726-ca121723b8ef?q=80&w=1974&auto=format&fit=crop
+20,138,306.98,4,true,"WiFi, AC, Smart TV, Mini bar","Loose cabinet hinge (reported)",https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?q=80&w=2071&auto=format&fit=crop
+21,123,277.77,3,true,"WiFi, AC, Smart TV, Mini bar","Lamp flickers occasionally",https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=2070&auto=format&fit=crop
+21,136,246.99,2,true,"WiFi, AC, Bathtub, Smart TV",null,https://images.unsplash.com/photo-1566195992011-5f6b21e539aa?q=80&w=1974&auto=format&fit=crop
+22,222,332.69,3,true,"WiFi, AC, Smart TV, Work desk",null,https://images.unsplash.com/photo-1631048835388-46642de1582e?q=80&w=2070&auto=format&fit=crop
+22,227,332.03,3,true,"WiFi, AC, Premium bedding, Smart TV",null,https://images.unsplash.com/photo-1645619200527-c6786729c2da?q=80&w=2070&auto=format&fit=crop
+23,302,276.82,3,true,"WiFi, AC, Smart TV, Work desk","Lamp flickers occasionally",https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=2070&auto=format&fit=crop
+23,315,229.56,2,true,"WiFi, AC, Balcony, Smart TV",null,https://images.unsplash.com/photo-1611892440504-42a792e24d32?q=80&w=2070&auto=format&fit=crop
+24,112,267.19,2,true,"WiFi, AC, Bathtub, Smart TV",null,https://images.unsplash.com/photo-1621293954908-907159247fc8?q=80&w=2070&auto=format&fit=crop
+24,117,266.64,3,true,"WiFi, AC, Bathtub, Smart TV","Minor scuff on wall",https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=2070&auto=format&fit=crop
+25,203,229.2,3,true,"WiFi, AC, Smart TV, Mini bar",null,https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=2070&auto=format&fit=crop
+25,217,263.38,2,false,"WiFi, AC, Balcony, Smart TV","Loose cabinet hinge (reported)",https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=2070&auto=format&fit=crop
+26,120,203.92,2,true,"WiFi, Smart TV, City view","Minor scuff on wall",https://images.unsplash.com/photo-1605346576608-92f1346b67d6?q=80&w=2070&auto=format&fit=crop
+26,133,144.23,1,false,"WiFi, AC, Bathtub, Smart TV","Loose cabinet hinge (reported)",https://images.unsplash.com/photo-1737517302831-e7b8a8eaa97c?q=80&w=2070&auto=format&fit=crop
+27,220,250.71,2,true,"WiFi, AC, Smart TV, Mini bar",null,https://images.unsplash.com/photo-1602081115720-72e5b0a254b8?q=80&w=2071&auto=format&fit=crop
+27,237,301.8,3,true,"WiFi, AC, Premium bedding, Smart TV",null,https://images.unsplash.com/photo-1562438668-bcf0ca6578f0?q=80&w=2060&auto=format&fit=crop
+28,211,263.05,3,true,"WiFi, AC, Smart TV, Work desk","Lamp flickers occasionally",https://images.unsplash.com/photo-1631049307264-da0ec9d70304?q=80&w=2070&auto=format&fit=crop
+28,231,345.97,4,true,"WiFi, AC, Smart TV, Mini bar",null,https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?q=80&w=2071&auto=format&fit=crop
+28,233,133.69,1,false,"WiFi, AC, Premium bedding, Smart TV","Minor scuff on wall",https://images.unsplash.com/photo-1566665797739-1674de7a421a?q=80&w=1974&auto=format&fit=crop
+29,127,298.08,3,true,"WiFi, AC, Bathtub, Smart TV",null,https://images.unsplash.com/photo-1722763529109-2bcb289a47c3?q=80&w=2030&auto=format&fit=crop
+29,130,160.26,1,false,"WiFi, AC, Smart TV, Work desk","Lamp flickers occasionally",https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?q=80&w=2070&auto=format&fit=crop
+30,412,312.51,3,true,"WiFi, AC, Smart TV, Mini bar","Lamp flickers occasionally",https://images.unsplash.com/photo-1592229505726-ca121723b8ef?q=80&w=1974&auto=format&fit=crop
+30,415,127.0,1,false,"WiFi, AC, Premium bedding, Smart TV","Loose cabinet hinge (reported)",https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?q=80&w=2071&auto=format&fit=crop
+31,536,242.08,2,true,"WiFi, AC, Bathtub, Smart TV","Lamp flickers occasionally",https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=2070&auto=format&fit=crop
+31,539,388.18,4,true,"WiFi, AC, Premium bedding, Smart TV",null,https://images.unsplash.com/photo-1566195992011-5f6b21e539aa?q=80&w=1974&auto=format&fit=crop
+32,316,291.56,3,true,"WiFi, AC, Smart TV, Work desk","Loose cabinet hinge (reported)",https://images.unsplash.com/photo-1631048835388-46642de1582e?q=80&w=2070&auto=format&fit=crop
+32,318,188.89,2,true,"WiFi, AC, Smart TV, Work desk",null,https://images.unsplash.com/photo-1645619200527-c6786729c2da?q=80&w=2070&auto=format&fit=crop
+33,210,236.71,3,true,"WiFi, AC, Premium bedding, Smart TV",null,https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=2070&auto=format&fit=crop
+33,215,168.97,1,false,"WiFi, AC, Bathtub, Smart TV","Lamp flickers occasionally",https://images.unsplash.com/photo-1611892440504-42a792e24d32?q=80&w=2070&auto=format&fit=crop
+33,225,235.51,2,false,"WiFi, AC, Bathtub, Smart TV",null,https://images.unsplash.com/photo-1621293954908-907159247fc8?q=80&w=2070&auto=format&fit=crop
+34,120,331.41,3,true,"WiFi, AC, Smart TV, Mini bar",null,https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=2070&auto=format&fit=crop
+34,123,206.94,2,true,"WiFi, AC, Balcony, Smart TV","Loose cabinet hinge (reported)",https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=2070&auto=format&fit=crop
+35,409,405.82,4,true,"WiFi, Smart TV, Espresso machine",null,https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=2070&auto=format&fit=crop
+35,411,173.93,2,true,"WiFi, Smart TV, Espresso machine",null,https://images.unsplash.com/photo-1605346576608-92f1346b67d6?q=80&w=2070&auto=format&fit=crop
+35,430,182.28,2,true,"WiFi, AC, Bathtub, Smart TV",null,https://images.unsplash.com/photo-1737517302831-e7b8a8eaa97c?q=80&w=2070&auto=format&fit=crop
+36,406,241.39,2,true,"WiFi, AC, Balcony, Smart TV",null,https://images.unsplash.com/photo-1602081115720-72e5b0a254b8?q=80&w=2071&auto=format&fit=crop
+36,417,322.75,3,false,"WiFi, AC, Smart TV, Mini bar",null,https://images.unsplash.com/photo-1562438668-bcf0ca6578f0?q=80&w=2060&auto=format&fit=crop
+37,110,159.17,1,false,"WiFi, AC, Smart TV, Mini bar",null,https://images.unsplash.com/photo-1631049307264-da0ec9d70304?q=80&w=2070&auto=format&fit=crop
+37,116,321.03,3,true,"WiFi, AC, Smart TV, Work desk","Lamp flickers occasionally",https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?q=80&w=2071&auto=format&fit=crop
+38,207,137.72,1,false,"WiFi, AC, Bathtub, Smart TV",null,https://images.unsplash.com/photo-1566665797739-1674de7a421a?q=80&w=1974&auto=format&fit=crop
+38,220,338.67,4,false,"WiFi, AC, Smart TV, Mini bar",null,https://images.unsplash.com/photo-1722763529109-2bcb289a47c3?q=80&w=2030&auto=format&fit=crop
+38,238,265.19,3,false,"WiFi, Smart TV, Espresso machine",null,https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?q=80&w=2070&auto=format&fit=crop
+39,524,157.85,1,false,"WiFi, Smart TV, Espresso machine","Lamp flickers occasionally",https://images.unsplash.com/photo-1592229505726-ca121723b8ef?q=80&w=1974&auto=format&fit=crop
+39,528,212.92,2,true,"WiFi, AC, Balcony, Smart TV","Loose cabinet hinge (reported)",https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?q=80&w=2071&auto=format&fit=crop
+37,410,216.39,2,false,"WiFi, AC, Premium bedding, Smart TV",null,https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=2070&auto=format&fit=crop
+27,428,239.41,2,true,"WiFi, AC, Smart TV, Mini bar","Lamp flickers occasionally",https://images.unsplash.com/photo-1566195992011-5f6b21e539aa?q=80&w=1974&auto=format&fit=crop
